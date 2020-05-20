@@ -1,10 +1,3 @@
-@font-face {
-  font-family: Basis;
-  font-style: normal;
-  font-weight: 400;
-  src: url('../../public/fonts/BasisGrotesquePro-Regular.woff') format('woff');
-}
-
 html {
   font-family: 'Basis', sans-serif;
   font-style: normal;
